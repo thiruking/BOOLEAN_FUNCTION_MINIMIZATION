@@ -53,7 +53,8 @@ Developed by: RegisterNumber:*/
 **Output:**
 
 **RTL**
-![Screenshot 2024-11-05 165410](https://github.com/user-attachments/assets/240c0464-a4d8-4fd7-b143-1227e4ef2b6e)
+![Screenshot 2024-11-19 142646](https://github.com/user-attachments/assets/4bfc069b-5f93-4d1a-b89d-8529cbe889b7)
+
 
 
 **Timing Diagram**
