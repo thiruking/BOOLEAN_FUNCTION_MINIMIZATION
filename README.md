@@ -43,7 +43,9 @@ endmodule
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: RegisterNumber:24900491
+
+
 **TRUTH TABLE**
 ![image](https://github.com/user-attachments/assets/b2e6f509-64de-444c-a5fa-e40898d2b160)
 ![image](https://github.com/user-attachments/assets/0ff0cc8d-a388-4297-ac03-7771303160b7)
